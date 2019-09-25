@@ -1,0 +1,26 @@
+h1 {
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #e9a800;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: grey;
+    padding: 10px;  
+}
+
+p {
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: grey;
+    padding: 10px;
+}
+
+img {
+    padding: 10px;
+    border: solid 4px #e9a800;
+    margin: 10px;
+}
